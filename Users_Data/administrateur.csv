@@ -1,0 +1,3 @@
+_nom;_id_utilisateur;_mot_de_passe;_role
+Admin;admin;0000;administrateur
+Amine;amine;1234;administrateur

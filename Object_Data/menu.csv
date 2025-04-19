@@ -1,0 +1,7 @@
+_id_article;_nom;_description;_prix;_categorie
+1;tacos;----;35;plat
+2;pizza;----;40;plat
+3;burger;----;28;plat
+4;tiramissu;----;15;dessert
+5;flan;----;5;dessert
+6;coke;----;8;boisson
