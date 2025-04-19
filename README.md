@@ -45,7 +45,3 @@ A Restaurant Management System built with Python. This project includes a secure
     ```sh
     python Application.py
     ```
-
-## 📜 License
-
-**This project is open-source and free to use.**
